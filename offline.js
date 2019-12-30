@@ -1,0 +1,33 @@
+﻿{
+	"version": 1577684560,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/hudbest-sheet0.png",
+		"images/hudlife-sheet0.png",
+		"images/hudscore-sheet0.png",
+		"images/collectible-sheet0.png",
+		"images/collectible-sheet1.png",
+		"images/edge-sheet0.png",
+		"images/enemyblackbird-sheet0.png",
+		"images/enemyeagle-sheet0.png",
+		"images/enemyeagle-sheet1.png",
+		"images/player-sheet0.png",
+		"images/tiledbackground.png",
+		"images/background2000-sheet0.png",
+		"images/birdrescue-sheet0.png",
+		"images/reload-sheet0.png",
+		"media/eat.m4a",
+		"media/eat.ogg",
+		"media/hit.m4a",
+		"media/hit.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
